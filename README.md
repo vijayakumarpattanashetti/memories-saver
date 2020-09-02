@@ -27,6 +27,7 @@
      c) Update "Text" and click "PUT" to Update
      d) Click DELETE to Delete
 2) Postman: Use urls and provide necessary Auth & Body, and validate previously tested CRUD actions
+   *Base URL: localhost:8000 or https://memories-saver.herokuapp.com (deployed on heroku by me)
 
 
 ## Before deploying on production site
