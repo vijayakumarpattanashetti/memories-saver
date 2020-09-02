@@ -1,7 +1,7 @@
 # Memories Saver, Django Rest  API Framework based CRUD app
 
 
-##Setup
+## Setup
 
 1) Create the project directory and start virtual environment.
 2) Refer to requirements.txt, and install the requirements.
@@ -14,7 +14,7 @@
 6) Add some users to play with.
 
 
-##Testing
+## Testing
 
 1) Run: python tests.py
 2) Open localhost:8000
@@ -29,7 +29,7 @@
 2) Postman: Use urls and provide necessary Auth & Body, and validate previously tested CRUD actions
 
 
-##Before deploying on production site
+## Before deploying on production site
 
 1) Run: python manage.py check --debug
 2) Make sure nothing is returned, till then keep clearing all the warnings
